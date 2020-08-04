@@ -1,0 +1,15 @@
+[submodule "entity_based_sentiment_analysis"]
+	path = entity_based_sentiment_analysis
+	url = https://github.com/munaAchyuta/entity_based_sentiment_analysis.git
+[submodule "NER-Test"]
+	path = NER-Test
+	url = https://github.com/munaAchyuta/NER-Test.git
+[submodule "multi_intent"]
+	path = multi_intent
+	url = https://github.com/munaAchyuta/multi_intent.git
+[submodule "sentiment-analysis-practice"]
+	path = sentiment-analysis-practice
+	url = https://github.com/munaAchyuta/sentiment-analysis-practice.git
+[submodule "NLPusingBERT"]
+	path = NLPusingBERT
+	url = https://github.com/munaAchyuta/NLPusingBERT.git
